@@ -1,0 +1,1 @@
+worker: python dsc_bot.py
