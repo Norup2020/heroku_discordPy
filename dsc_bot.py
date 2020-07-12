@@ -31,4 +31,4 @@ for name in os.listdir(plugin_dir):
 import os
 
 
-bot.run('os.environ["discord_token"]')
+bot.run(os.environ["discord_token"])
