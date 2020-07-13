@@ -4,7 +4,7 @@ from discord.ext import commands
 import os
 import re
 
-bot = commands.Bot(command_prefix='~')
+bot = commands.Bot(command_prefix=os.environ["prefix"])
 
 plugin_dir = os.path.join(os.path.dirname(__file__), 'plugins')
 
