@@ -9,7 +9,7 @@
 	      "description": "Your discord bot's token.",
 	      "value": "Enter your token"
 	    }
-            "prefix": {
+            "prefix":{
 	      "description": "custom prefix",
 	      "value": "."
 	    }
