@@ -8,7 +8,7 @@
 	    "discord_token": {
 	      "description": "Your discord bot's token.",
 	      "value": "Enter your token"
-	    }
+	    },
             "prefix":{
 	      "description": "custom prefix",
 	      "value": "."
